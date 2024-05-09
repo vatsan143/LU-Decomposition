@@ -18,7 +18,7 @@ To write a program to find the LU Decomposition of a matrix.
 /*
 Program to find the L and U matrix.
 
-Developed by: srivatsan G
+Developed by: SRIVATSAN G
 
 RegisterNumber: 212223230216
 */
@@ -38,7 +38,7 @@ print(u)
 /*
 Program to find the LU Decomposition of a matrix.
 
-Developed by:  srivatsan G
+Developed by:  SRIVATSAN G
 
 RegisterNumber: 212223230216
 */
